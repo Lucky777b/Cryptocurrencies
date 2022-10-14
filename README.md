@@ -17,6 +17,7 @@ This project focuses on using unsupervised machine learning(UML) to create a rep
 * Sklearn
 * HvPlot 
 * Pathlib 
+* Dataset: [crypto_data.csv](https://github.com/Lucky777b/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
 ## Results 
 
